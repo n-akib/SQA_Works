@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705315418256,5727,Home Page,200,OK,DarazLoadTest 1-7,text,true,,104336,118,20,20,https://www.daraz.com.bd/,1020,0,885
+1705315418557,17976,Home Page,200,OK,DarazLoadTest 1-8,text,true,,1163577,118,19,19,https://www.daraz.com.bd/,400,0,299
+1705315416761,21906,Home Page,200,OK,DarazLoadTest 1-2,text,true,,1163577,118,18,18,https://www.daraz.com.bd/,564,0,488
+1705315416582,25485,Home Page,200,OK,DarazLoadTest 1-1,text,true,,1163550,118,17,17,https://www.daraz.com.bd/,743,0,670
+1705315417061,30583,Home Page,200,OK,DarazLoadTest 1-3,text,true,,1163559,118,16,16,https://www.daraz.com.bd/,465,0,191
+1705315419755,28136,Home Page,200,OK,DarazLoadTest 1-12,text,true,,1163559,118,15,15,https://www.daraz.com.bd/,539,0,418
+1705315418855,29474,Home Page,200,OK,DarazLoadTest 1-9,text,true,,1163587,118,14,14,https://www.daraz.com.bd/,937,0,796
+1705315419455,30745,Home Page,200,OK,DarazLoadTest 1-11,text,true,,1163598,118,13,13,https://www.daraz.com.bd/,517,0,393
+1705315417956,35285,Home Page,200,OK,DarazLoadTest 1-6,text,true,,1163603,118,12,12,https://www.daraz.com.bd/,536,0,397
+1705315420054,35918,Home Page,200,OK,DarazLoadTest 1-13,text,true,,1163550,118,11,11,https://www.daraz.com.bd/,2921,0,2794
+1705315421553,35054,Home Page,200,OK,DarazLoadTest 1-18,text,true,,1163533,118,10,10,https://www.daraz.com.bd/,1537,0,1008
+1705315420353,37703,Home Page,200,OK,DarazLoadTest 1-14,text,true,,1163528,118,9,9,https://www.daraz.com.bd/,485,0,361
+1705315421252,37913,Home Page,200,OK,DarazLoadTest 1-17,text,true,,1163550,118,8,8,https://www.daraz.com.bd/,556,0,416
+1705315422152,37375,Home Page,200,OK,DarazLoadTest 1-20,text,true,,1163555,118,7,7,https://www.daraz.com.bd/,1143,0,1001
+1705315417362,42590,Home Page,200,OK,DarazLoadTest 1-4,text,true,,1163549,118,6,6,https://www.daraz.com.bd/,252,0,192
+1705315420655,39539,Home Page,200,OK,DarazLoadTest 1-15,text,true,,1163542,118,5,5,https://www.daraz.com.bd/,527,0,393
+1705315421851,38531,Home Page,200,OK,DarazLoadTest 1-19,text,true,,1163564,118,4,4,https://www.daraz.com.bd/,4080,0,3942
+1705315420952,39555,Home Page,200,OK,DarazLoadTest 1-16,text,true,,1163543,118,3,3,https://www.daraz.com.bd/,1449,0,1309
+1705315417660,43053,Home Page,200,OK,DarazLoadTest 1-5,text,true,,1163565,118,2,2,https://www.daraz.com.bd/,447,0,310
+1705315419156,41773,Home Page,200,OK,DarazLoadTest 1-10,text,true,,1163512,118,1,1,https://www.daraz.com.bd/,2242,0,2089
